@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\8b86056c5b70144180889dc7a6b4549af3837bd5\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\32f1d431385af8e23a0d3270d71f430469f84d53\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\32f1d431385af8e23a0d3270d71f430469f84d53\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\8b86056c5b70144180889dc7a6b4549af3837bd5\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\8b86056c5b70144180889dc7a6b4549af3837bd5\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\32f1d431385af8e23a0d3270d71f430469f84d53\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\8b86056c5b70144180889dc7a6b4549af3837bd5\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\32f1d431385af8e23a0d3270d71f430469f84d53\\output\\res\\drawable-v21\\design_password_eye.xml"
+    }
+]

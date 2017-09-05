@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\8b86056c5b70144180889dc7a6b4549af3837bd5\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\8b86056c5b70144180889dc7a6b4549af3837bd5\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\8b86056c5b70144180889dc7a6b4549af3837bd5\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\8b86056c5b70144180889dc7a6b4549af3837bd5\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\8b86056c5b70144180889dc7a6b4549af3837bd5\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\abhinav jha\\Desktop\\Android project\\ChatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\abhinav jha\\.android\\build-cache\\8b86056c5b70144180889dc7a6b4549af3837bd5\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]
